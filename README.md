@@ -1,16 +1,15 @@
-## Hi there 👋
+###  boas vindas ao meu perfil 🎵
 
-<!--
-**mary-jeim/mary-jeim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Mary jeim
 
-Here are some ideas to get you started:
+-  Estou estudando no [Alura](https://www.alura.com.br)
+-  Estou me desenvolvendo na linguagem JavaScript
+-  E utilizando esse espaço para minha organização e compatilhamento dos meus projetos desenvolvidos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### você pode entrar em contato comigo 📪
+
+00001130749435SP@al.educacao.sp.gpv.br
+
+![](https://media1.tenor.com/m/0CksBva94moAAAAC/luffy-wano.gif)
+
+
